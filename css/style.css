@@ -1,0 +1,51 @@
+h1 {
+	property: value;
+	text-align: center;
+	background-color: rgba(0, 255, 140, 0.54);
+}
+
+h2{
+	text-align: center;
+	background-color: green;
+}
+
+body {
+    background-image: url("../img/USgreat.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    background-color: rgba(0, 255, 140, 0.54);
+    padding-top: 0px;
+    width: 700px;
+    margin-right: 11px;
+    background-color: rgba(0, 255, 140, 0.54);
+    margin-left: 300px;
+    margin-right: 0px;
+
+}
+
+
+#welcome{
+	color: green;
+	font-size:70px;
+}
+
+#tagline{
+	color: green;
+	font-size:70px;
+}
+
+.redcolor{
+	color: red;
+	font-size: 10px;
+}
+
+.bluecolor{
+	color: blue;
+	font-size: 10px;
+}
+
+.greencolor{
+	color: green;
+	font-size: 10px;
+}

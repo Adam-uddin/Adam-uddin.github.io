@@ -1,0 +1,126 @@
+.img-circle{
+	width: 100px;
+}
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background-image: url(../img/bat.jpg);
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e16879;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: red;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.card-back{
+  background-image: url("../img/bats.jpg");
+  background-repeat: repeat-x;
+}
+
+.progress progress-success {
+  color: red;
+}
+
+.box-margin{
+    margin-top: 30px;
+}
+
+.bat-title{
+  color: #00f3bf;
+  font-size: 20px;
+  text-shadow: -1px 0 #05fdf6, 0 0px green, 0px 0 green, 0 0px green;
+
+}
+
+.card-footer{
+  size: 100px;
+}
+
+.bg-primary{
+  background-color: rgba(2, 216, 188, 0.25) !important;
+}
+
+.card{
+  background-color: rgba(47, 183, 165, 0.48);
+  border-color: #ea00f1
+}
+
+.card-text{
+  color: #b0ff00;
+}
+
+.card-title{
+  color: #01ff77;
+}
+
+.info{
+  color: #00ffec
+}
+
+.bounce{
+  margin-top: 30px;
+  font-size: 110px;
+  font-style: impact;
+  font-family: impact;
+  color: black;
+  text-shadow: -5px 0 #05fdf6, 0 1px green, 1px 0 green, 0 -1px green;
+}
+
+.margin{
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+.style{
+  margin-top: 20px;
+}
+
+.card-footer{
+  background-color: rgba(226, 90, 8, 0.68);
+  color: cyan;
+}
+
+.yo{
+  color: white;
+}
+
+.hello{
+  color: #5fdee0;
+}
